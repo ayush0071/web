@@ -1,0 +1,28 @@
+
+body{
+    background-color: aqua;
+    color: black;
+}
+
+.parent-box{
+    background-color: black;
+    color: blanchedalmond;
+
+}
+.box1{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    display: inline-block;
+    margin: 20px;
+    
+    
+}
+.box2{
+    height: 100px;
+    width: 150px;
+    background-color: rgb(4, 0, 255);
+    display: inline-block;
+    margin: 20px;
+}
+
