@@ -1,7 +1,7 @@
 const person ={
      name:"Ayush",
      city:"kathmandu",
-     call:9812285204
+     call:12535232485274
 
 }
 console.log(person.name)
